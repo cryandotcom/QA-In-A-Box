@@ -10,8 +10,8 @@ Welcome to my Podcast GitHub! I'm a Software Quality Engineer passionate about b
 
 ## 🚀 About Me
 
-- 💻 Currently working on [describe your current project or focus, e.g., a full-stack app or machine learning models].
-- 🌱 Learning AI with QA Automation.
+- 💻 Currently working on making my Podcast awesome.
+- 🌱 Learning creating Podcasts with Logic Pro and Final Cut Pro
 - 🤝 Open to collaborating on open-source projects.
 - 🎯 Fun fact: I’m a Macintosh enthusiast.
 
